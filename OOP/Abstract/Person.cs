@@ -6,7 +6,7 @@ public class Person
     
     public string Age { get; set; }
     
-    public string Country { get; set; }
+    public string Country { get; set; } 
 
     public void PersonInfo()
     {
